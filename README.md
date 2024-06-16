@@ -6,7 +6,7 @@
 ### <div align="center">I'm Arnav Sharma, an aspiring Full-stack developer located in Troy Michigan</div>  
   
 
-- 🔭 I’m currently working on prediction of LID, various NLP models for low-resource African languages, and Arduino robot movement algortih,s  
+- 🔭 I’m currently working on prediction of LID, various NLP models for low-resource African languages, and Arduino robot movement algorithms  
   
 
 - 🌱 I’m currently learning Kubernetes and Neurosymbolic AI  
