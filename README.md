@@ -82,6 +82,8 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 </a>  
 </div>  
 
+<br/>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arnavsharma938&&style=flat-square" align="center" />
 </div>  
