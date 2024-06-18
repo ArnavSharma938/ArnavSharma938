@@ -81,17 +81,6 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arnavsharma938&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arnavsharma938&&style=flat-square" align="center" />
