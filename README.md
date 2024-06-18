@@ -5,17 +5,7 @@
 
 ### <div align="center">I'm Arnav Sharma, an aspiring Full-stack developer located in Troy Michigan</div>  
   
-
-- 🔭 I’m currently working on prediction of LID, various NLP models for low-resource African languages, and Arduino robot movement algorithms  
-  
-
-- 🌱 I’m currently learning Kubernetes and Neurosymbolic AI  
-  
-
-- ❓ Ask me about anything related to MERN stack  
-  
-
-- ⚡ Fun fact: I love playing tennis  
+I am 14 years old and I attend the International Academy East as an upcoming sophmore. My technical interests lie in Computer Vision, Natural Language Processing (NLP), Arduino (INO/C++), and iOS app development. However, outside of my technical interests, I am very outgoing as I often go to the gym, play basketball, and play tennis with my friends.
   
 
 <br/>  
@@ -52,7 +42,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
