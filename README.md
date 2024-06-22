@@ -63,7 +63,7 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 ## Relevant Experience:
 
 1. AI/ML & Backend Developer Intern @ Yekola
-2. Computer Vision Intern @ Dreamwave
+2. Another Internship
 3. DOE Researcher @ Oakland University
 4. Student Researcher @ Michigan Technological University
 
