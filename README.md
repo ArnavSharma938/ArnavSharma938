@@ -69,12 +69,14 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 
 <br/>  
 
-## Relevant Experience:
+## Relevant Tech Experience:
 
-1. AI/ML & Backend Developer Intern @ Yekola
-2. Another Internship
-3. DOE Researcher @ Oakland University
-4. Student Researcher @ Michigan Technological University
+1. SWE Intern @ Yekola
+2. Founder & CEO at CortexPD
+3. Track A @ Headstarter building CourtAI
+4. DOE Researcher @ Oakland University
+5. Student Researcher @ Michigan Technological University
+6. Research/database building @ [Cannot disclose uni]
 
    
 ## Connect with me  
