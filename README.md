@@ -18,7 +18,7 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 ### Frontend  
 <div align="center"> 
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="Bootstrap" height="50" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" alt="HTML" height="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://imgur.com/ejTWyhF.png" alt="HTML" height="50" /></a>
 <a href="https://devdocs.io/css/" target="_blank"><img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-3.png" alt="CSS" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
