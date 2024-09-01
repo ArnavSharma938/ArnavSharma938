@@ -23,7 +23,7 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://imgur.com/lJzsOAV" alt="LaTeX" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://imgur.com/lJzsOAV.png" alt="LaTeX" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>    
 </div>
 
@@ -43,8 +43,8 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/OIP.YKISdgRAdZAuXSPjPslqIQHaHa?rs=1&pid=ImgDetMain" alt="Express" height="50" /></a>  
 <a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/expo/expo/raw/main/.github/resources/banner.png" alt="Expo" height="50" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://imgur.com/NcwacBh" alt="Django" height="50" /></a>
-<a href="https://www.ros.org/" target="_blank"><img style="margin: 10px" src="https://imgur.com/oCOwRIT" alt="ROS" height="50" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://imgur.com/NcwacBh.png" alt="Django" height="50" /></a>
+<a href="https://www.ros.org/" target="_blank"><img style="margin: 10px" src="https://imgur.com/oCOwRIT.png" alt="ROS" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
