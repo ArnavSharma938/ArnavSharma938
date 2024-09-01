@@ -23,9 +23,8 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://imgur.com/lJzsOAV" alt="LaTeX" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>    
 </div>
 
 </td><td valign="top" width="33%">
@@ -35,16 +34,17 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>    
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/OIP.YKISdgRAdZAuXSPjPslqIQHaHa?rs=1&pid=ImgDetMain" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/OIP.YKISdgRAdZAuXSPjPslqIQHaHa?rs=1&pid=ImgDetMain" alt="Express" height="50" /></a>  
 <a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/expo/expo/raw/main/.github/resources/banner.png" alt="Expo" height="50" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/OIP.veIGkUPdXJ2pYy0tMvZfvQHaDt?rs=1&pid=ImgDetMain" alt="Django" height="50" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://imgur.com/NcwacBh" alt="Django" height="50" /></a>
+<a href="https://www.ros.org/" target="_blank"><img style="margin: 10px" src="https://imgur.com/oCOwRIT" alt="ROS" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -62,7 +62,7 @@ I am 14 years old and I attend the International Academy East as an upcoming sop
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://hutsons-hacks.info/wp-content/uploads/2020/09/1200px-Pandas_logo.svg_-1-1024x414.png" alt="Pandas" height="50" /></a>
 <a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" height="50" /></a>
 <a href="https://scikit-learn.org/stable/index.html" target="_blank"><img style="margin: 10px" src="https://comparecamp.com/media/uploads/2019/02/scikit-learn-logo.png" alt="Scikit-Learn" height="50" /></a> 
-<a href="https://nipy.org/" target="_blank"><img style="margin: 10px" src="https://nipy.org/img/nipy.svg alt="NiPy" height="50" /></a> 
+<a href="https://nipy.org/" target="_blank"><img style="margin: 10px" src="https://nipy.org/img/nipy.svg" alt="NiPy" height="50" /></a> 
 </div>
 
 </td></tr></table>  
