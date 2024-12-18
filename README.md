@@ -2,9 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Arnav Sharma, a 15 year old Full-stack SWE with vast AI/ML experience</div>  
-  
-I am 14 years old and I attend the International Academy East as an upcoming sophmore. My technical interests lie in Computer Vision, Natural Language Processing (NLP), Arduino (INO/C++), and app development. However, outside of my technical interests, I am very outgoing as I often go to the gym, play basketball, and play tennis with my friends.
+### <div align="center">15 Year Old SWE & AI & Med</div>  
   
 
 <br/>  
