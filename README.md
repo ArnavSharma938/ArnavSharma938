@@ -2,7 +2,8 @@
 </div>  
   
 
-### <div align="center">15 Year Old SWE & AI & Bio</div>  
+### <div align="center">High school Software/Artificial Intellgience engineer and researcher</div>
+## <div align="center">All of my repositories are private</div>  
   
 
 <br/>  
@@ -75,15 +76,12 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/ArnavSharma938" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://drive.google.com/file/d/1i-sKUtTcjPCfx0v_dxjjZKtO0VsF55v6/view?usp=sharing" target="_blank">
+<img src=https://img.shields.io/badge/resume-%23E01F3D.svg?&style=for-the-badge&logo=googledrive&logoColor=white alt=resume style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/arnav-sharma-61145b2b5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/arnavsharma09" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 <br/>  
