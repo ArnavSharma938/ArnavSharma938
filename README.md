@@ -76,7 +76,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://drive.google.com/file/d/1i-sKUtTcjPCfx0v_dxjjZKtO0VsF55v6/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1rM69s0DZV3WCNjqcWvjAdZ6lm1WDwhll/view?usp=sharing" target="_blank">
 <img src=https://img.shields.io/badge/resume-%23E01F3D.svg?&style=for-the-badge&logo=googledrive&logoColor=white alt=resume style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/arnav-sharma-61145b2b5/" target="_blank">
