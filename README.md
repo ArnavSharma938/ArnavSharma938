@@ -3,7 +3,7 @@
   
 
 ### <div align="center">High school Software/Artificial Intellgience engineer and researcher</div>
-## <div align="center">All of my repositories are private</div>  
+#### <div align="center">All of my repositories are private</div>  
   
 
 <br/>  
