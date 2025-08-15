@@ -1,94 +1,86 @@
-<div align="center">
-</div>  
-  
-
-### <div align="center">High school Software/Artificial Intellgience engineer and researcher</div>
-#### <div align="center">All of my repositories are private</div>  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="25%">
-
-
-
-### Frontend  
-<div align="center"> 
-<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="Bootstrap" height="50" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://imgur.com/ejTWyhF.png" alt="HTML" height="50" /></a>
-<a href="https://devdocs.io/css/" target="_blank"><img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-3.png" alt="CSS" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>    
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>    
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://imgur.com/EQ4BcbW.png" alt="AWS" height="50" /></a>  
-<a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/expo/expo/raw/main/.github/resources/banner.png" alt="Expo" height="50" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://imgur.com/NcwacBh.png" alt="Django" height="50" /></a>
-<a href="https://cloud.google.com/docs/" target="_blank"><img style="margin: 10px" src="https://imgur.com/RBe9IFt.png" alt="GCP" height="50" /></a>
-<a href="https://dashboard.heroku.com/apps" target="_blank"><img style="margin: 10px" src="https://imgur.com/bsGzRKc.png" alt="Heroku" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://imgur.com/57Mswsl.png" alt="Docker" height="50" /></a>
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### AI/ML  
-<div align="center">  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://docs.ultralytics.com/" target="_blank"><img style="margin: 10px" src="https://assets.website-files.com/5f6bc60e665f54db361e52a9/5f6bc60e665f546a6b1e5400_logo_yolo.png" alt="YOLO" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/R.5908c317c3470bfef2b068b4d9e173c7?rik=qsSgVUU65XO9iw&pid=ImgRaw&r=0" alt="NumPy" height="50" /></a> 
-<a href="https://scikit-learn.org/stable/index.html" target="_blank"><img style="margin: 10px" src="https://comparecamp.com/media/uploads/2019/02/scikit-learn-logo.png" alt="Scikit-Learn" height="50" /></a> 
-<a href="https://nipy.org/" target="_blank"><img style="margin: 10px" src="https://nipy.org/img/nipy.svg" alt="NiPy" height="50" /></a>
-<a href="https://github.com/huggingface/transformers" target="_blank"><img style="margin: 10px" src="https://imgur.com/2SJwDAG.png" alt="Transformers" height="50" /></a> 
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### Robotics  
-<div align="center">  
-<a href="https://www.ros.org/" target="_blank"><img style="margin: 10px" src="https://imgur.com/oCOwRIT.png" alt="ROS" height="50" /></a>
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a> 
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/arnav-sharma-61145b2b5/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+# Hey Everyone! I'm [Arnav Sharma!](https://github.com/ArnavSharma938)
+<br><br>
+<a href="https://www.linkedin.com/in/arnav-sharma-61145b2b5/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-</div>  
+<a href="https://github.com/ArnavSharma938">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
 
-<br/>  
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=arnavsharma938&&style=flat-square" align="center" />
-</div>  
+## <p align="center"><h4 align="center"><samp> An Software Developer, An Open Source AI Researcher, Startup Founder & A Competitive Programmer </samp></h4></p>
+
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
+
+- 👨‍🎓 <samp><b>High School Diploma from the International Academy East (2023-2027)</b>
+- 🥇 <samp>First Place Grand Award in Computational Biology and Bioinformatics at the Regeneron International Science and Engineering Fair 2025 || Gold division competitor in the United States of American Computing Olympiad || Chess Arena Fide Master ||
+- 💼 <samp>I’m looking for research collaborators at the time.
+- ♟ <samp>I play a lot of chess, I am 1400-1500 rated on FIDE Online Arena
+</div>
+
+##
+
+<div>
+<h3><b><samp>Experiences:</samp></b></h3>
+- ⭐ Founder & Chief Executive Officer @ Paraxis (Summer 2025 - present)<br>
+- ⭐ Co-founder & Research Director @ CortexPD Labs (Spring 2024 - present)<br>
+- 🔬 Research Assistant Intern @ the Harvard AI and Robotics Lab (Summer 2025 - present)<br>
+- 👨🏻‍🏫 Science Fair Coach @ Crimson Education (Summer 2025 - present)<br>
+- 👷🏻 Machine Learning Engineer Intern @ Cerbrec (Winter 2024)<br>
+- 🔬 Research Assistant Intern @ the Oakland University School of Computer Engineering and Computer Science (Spring 2024 - Spring 2025)<br>
+- 👷🏻 Software Engineer Intern @ Yekola (Summer 2024)<br>
+</div>
+
+##
+<h3><b><samp>Skills</samp></b></h3>
+
+<h4><b><samp>Languages</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=cpp,c,py,js,java,bash&perline=18)
+
+<h4><b><samp>DevOps</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=git,docker,nginx,gcp&perline=18)
+
+<h4><b><samp>Frontend</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,md&perline=18)
+
+<h4><b><samp>Backend</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=django,php,postman,rabbitmq,nodejs&perline=18)
+
+<h4><b><samp>Database</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase&perline=18)
+
+<h4><b><samp>Electronics and IoT</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=arduino&perline=18)
+    
+##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+<h4><b><samp>Operating Systems and Platforms</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=windows,linux,apple,ubuntu&perline=18)
+
+<hr> 
   
+<br>
 
-<br/>  
 
+ ### 🏆 GitHub Profile Trophy:
+ <p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img width=800 src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+ </a>
+ </p>
 
-<br />
+<br>  
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
