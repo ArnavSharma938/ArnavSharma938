@@ -12,8 +12,7 @@
 
 ## <p align="center"><h4 align="center"><samp> An Software Developer, An Open Source AI Researcher, Startup Founder & A Competitive Programmer </samp></h4></p>
 
-<div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<div></div>
   <br>
 
 - 👨‍🎓 <samp><b>High School Diploma from the International Academy East (2023-2027)</b>
