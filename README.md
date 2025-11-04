@@ -25,7 +25,7 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- ⭐ Founder & Chief Executive Officer @ Paraxis (Summer 2025 - present)<br>
+- ⭐ Founder & Chief Executive Officer @ Stealth (Fall 2025 - present)<br>
 - ⭐ Co-founder & Research Director @ CortexPD Labs (Spring 2024 - present)<br>
 - 🔬 Research Assistant Intern @ the Harvard AI and Robotics Lab (Summer 2025 - present)<br>
 - 👨🏻‍🏫 Science Fair Coach @ Crimson Education (Summer 2025 - present)<br>
