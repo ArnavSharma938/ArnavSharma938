@@ -1,12 +1,14 @@
 # Hey Everyone! I'm [Arnav Sharma!](https://github.com/ArnavSharma938)
 <br><br>
 <a href="https://www.linkedin.com/in/arnav-sharma-61145b2b5/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ArnavSharma938">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
+<br><br>
+**> 🛑 Please note: Nearly all of my repositories are private.** <br><br>
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
