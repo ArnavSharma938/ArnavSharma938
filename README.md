@@ -43,7 +43,7 @@
 
 <h4><b><samp>DevOps</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=git,docker,nginx,gcp&perline=18)
+![](https://skillicons.dev/icons?i=git,docker,gcp&perline=18)
 
 <h4><b><samp>Frontend</samp></b></h4>
 
@@ -51,7 +51,7 @@
 
 <h4><b><samp>Backend</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=django,php,postman,rabbitmq,nodejs&perline=18)
+![](https://skillicons.dev/icons?i=django,nodejs&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
