@@ -11,7 +11,7 @@
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> An Software Developer, An Open Source AI Researcher, Startup Founder & A Competitive Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A software developer, a researcher, entrepreneur, and a competitive programmer </samp></h4></p>
 
 <div></div>
   <br>
