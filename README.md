@@ -26,12 +26,11 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- ⭐ Founder & Chief Executive Officer @ Stealth (Fall 2025 - present)<br>
-- ⭐ Founder & CEO @ CortexPD Labs (Spring 2024 - present)<br>
+- ⭐ Founder  @ CortexPD Labs (Spring 2024 - present)<br>
 - 🔬 Part-time Research Assistant @ the Harvard AI and Robotics Lab (Summer 2025 - present)<br>
 - 👨🏻‍🏫 Science Fair Coach @ Crimson Education (Summer 2025 - present)<br>
 - 👷🏻 Machine Learning Engineer Intern @ Cerbrec (Winter 2024)<br>
-- 🔬 Research Assistant Intern @ the Oakland University School of Computer Engineering and Computer Science (Spring 2024 - Spring 2025)<br>
+- 🔬 Research Assistant Intern @ the Oakland University (Spring 2024 - Spring 2025)<br>
 - 👷🏻 Software Engineer Intern @ Yekola (Summer 2024)<br>
 </div>
 
