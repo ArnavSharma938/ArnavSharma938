@@ -1,6 +1,3 @@
-# Hey Everyone! I'm [Arnav Sharma!]([https://github.com/ArnavSharma938](https://www.linkedin.com/in/arnav-sharma-61145b2b5/))
-<br><br>
-
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> An AI + computational biology researcher and a multi-venture entrepreneur</samp></h4></p>
@@ -46,8 +43,4 @@
 
 ![](https://skillicons.dev/icons?i=windows,linux,apple,ubuntu&perline=18)
 
-<hr> 
-
-<br>  
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+<hr>
