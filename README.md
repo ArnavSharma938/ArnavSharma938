@@ -1,37 +1,15 @@
-# Hey Everyone! I'm [Arnav Sharma!](https://github.com/ArnavSharma938)
+# Hey Everyone! I'm [Arnav Sharma!]([https://github.com/ArnavSharma938](https://www.linkedin.com/in/arnav-sharma-61145b2b5/))
 <br><br>
-<a href="https://www.linkedin.com/in/arnav-sharma-61145b2b5/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/ArnavSharma938">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<br><br>
-**> 🛑 Please note: Nearly all of my repositories are private.** <br><br>
-<br><br>
+
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> A software developer, a researcher, entrepreneur, and a competitive programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An AI + computational biology researcher and a multi-venture entrepreneur</samp></h4></p>
 
 <div></div>
   <br>
 
 - 👨‍🎓 <samp><b>High School Diploma from the International Academy East (2023-2027)</b>
-- 🥇 <samp>First Place Grand Award in Computational Biology and Bioinformatics at the Regeneron International Science and Engineering Fair 2025 || Gold division competitor in the United States of American Computing Olympiad || Chess Arena Fide Master ||
 - 💼 <samp>I’m looking for research collaborators at the time.
-- ♟ <samp>I play a lot of chess, I am 1400-1500 rated on FIDE Online Arena
-</div>
-
-##
-
-<div>
-<h3><b><samp>Experiences:</samp></b></h3>
-- ⭐ Founder  @ CortexPD Labs (Spring 2024 - present)<br>
-- 🔬 Part-time Research Assistant @ the Harvard AI and Robotics Lab (Summer 2025 - present)<br>
-- 👨🏻‍🏫 Science Fair Coach @ Crimson Education (Summer 2025 - present)<br>
-- 👷🏻 Machine Learning Engineer Intern @ Cerbrec (Winter 2024)<br>
-- 🔬 Research Assistant Intern @ the Oakland University (Spring 2024 - Spring 2025)<br>
-- 👷🏻 Software Engineer Intern @ Yekola (Summer 2024)<br>
 </div>
 
 ##
