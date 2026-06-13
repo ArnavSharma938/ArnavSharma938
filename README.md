@@ -5,7 +5,4 @@
 <div></div>
   <br>
 
-- 👨‍🎓 <samp><b>High School Diploma from the International Academy East (2023-2027)</b>
-- 🌐 <samp><b>Personal Website:</b> <a href="https://arnavsharmak.vercel.app/">arnavsharmak.vercel.app</a></samp>
-
 </div>
